@@ -14,4 +14,6 @@ The guide is available in the following languages:
 
 
 ## Contribution
-We welcome contributions from the community! If you have suggestions, improvements, or additional ideas for pages, feel free to contribute by submitting pull requests.
+We welcome contributions from the community! 
+
+If you have suggestions, improvements, or new ideas for pages, please contribute by creating a [new issue](https://github.com/PlayQ4/wiki/issues/new) that outlines your thoughts. 
