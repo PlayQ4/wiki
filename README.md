@@ -5,13 +5,11 @@ The [PlayQ4.net](wiki/pq4/playq4_en.md) Wiki provides general information about 
 ## Getting Started
 If you're new to PlayQ4.net, begin with reading the introduction guide in your preferred language. The purpose of our guide is to provide general information about everything important for playing Quake IV on our servers.
 
-The guide is available in the following languages:
-
-🇬🇧 [English](wiki/guide/guide_en.md)
+The 🇬🇧 [English](wiki/guide/guide_en.md) guide is also available in the following languages:
+- 🇩🇪 [Deutsch (German)](wiki/guide/guide_de.md)
 
 > [!NOTE]
-> Following languages are still being translated:
-> - 🇩🇪 [Deutsch (German)](wiki/guide/guide_de.md)
+> These languages are still being translated:
 > - 🇪🇸 [Español (Spanish)](wiki/guide/guide_es.md)
 > - 🇫🇷 [Français (French)](wiki/guide/guide_fr.md)
 
