@@ -8,9 +8,9 @@ If you're new to PlayQ4.net, begin with reading the introduction guide in your p
 The guide is available in the following languages:
 
 🇬🇧 [English](wiki/guide/guide_en.md)
-- 🇩🇪 [Deutsch (German)](wiki/guide/guide_de.md)
-- 🇪🇸 [Español (Spanish)](wiki/guide/guide_es.md)
-- 🇫🇷 [Français (French)](wiki/guide/guide_fr.md)
+- 🇩🇪 [Deutsch (German)](wiki/guide/guide_de.md)    (!Planned)
+- 🇪🇸 [Español (Spanish)](wiki/guide/guide_es.md)   (!Planned)
+- 🇫🇷 [Français (French)](wiki/guide/guide_fr.md)   (!Planned)
 
 
 ## Contribution
