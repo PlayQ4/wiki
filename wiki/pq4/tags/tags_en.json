@@ -1,16 +1,26 @@
 {
-  "how-to-play": {
-    "author": "gelbeinhalb",
-    "author_url": "https://github.com/gelbeinhalb",
-    "author_icon_url": "https://avatars.githubusercontent.com/u/69087944?v=4",
-    "title": "PlayQ4 Introduction Guide",
-    "description": "If you need help configuring your game or are new to PlayQ4, you can read our beginner's guide [here](https://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide.md)"
-  },
   "wiki": {
-    "author": "gelbeinhalb",
-    "author_url": "https://github.com/gelbeinhalb",
-    "author_icon_url": "https://avatars.githubusercontent.com/u/69087944?v=4",
     "title": "PlayQ4 Wiki",
     "description": "Our [Wiki](https://github.com/PlayQ4/wiki/blob/main/README.md) provides general information about Quake IV and our own services such as our [launcher](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/launcher_en.md), [queue-system](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/queue_en.md) and [hud-editor](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/hud_editor_en.md).\n\nhttps://github.com/PlayQ4/wiki"
+  },
+  "how-to-play": {
+    "title": "PlayQ4 Introduction Guide",
+    "description": "You can choose a guide in your native language (if available) [here](https://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide.md)"
+  },
+  "guide_de": {
+    "title": "PlayQ4 Einführungsguide",
+    "description": "Dieser Guide bietet einen allgemeinen Überblick über unseren Server und unsere Software.\n\nhttps://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide_de.md"
+  },
+  "guide_en": {
+    "title": "PlayQ4 Introduction Guide",
+    "description": "This guide provides a general overview of our server and services.\n\nhttps://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide_en.md"
+  },
+  "guide_es": {
+    "title": "",
+    "description": ""
+  },
+  "guide_fr": {
+    "title": "",
+    "description": ""
   }
 }
