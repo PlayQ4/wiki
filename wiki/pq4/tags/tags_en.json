@@ -1,3 +1,4 @@
 {
-  "how-to-play": "If you need help configuring your game or are new to PlayQ4, you can read our beginner's guide [here](https://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide.md)"
+  "how-to-play": "If you need help configuring your game or are new to PlayQ4, you can read our beginner's guide [here](https://github.com/PlayQ4/wiki/blob/main/wiki/guide/guide.md)",
+  "wiki": "Our [Wiki](https://github.com/PlayQ4/wiki/blob/main/README.md) provides general information about Quake IV and our own services such as our [launcher](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/launcher_en.md), [queue-system](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/queue_en.md) and [hud-editor](https://github.com/PlayQ4/wiki/blob/main/wiki/pq4/hud_editor_en.md).\n\nhttps://github.com/PlayQ4/wiki"
 }
