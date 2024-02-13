@@ -1,5 +1,5 @@
 # PlayQ4.net Wiki
-The [PlayQ4.net](wiki/pq4/playq4_en.md) Wiki provides general information about [Quake IV](wiki/q4/quake4.md) and our own services such as our [launcher](wiki/pq4/launcher_en.md), [queue-system](wiki/pq4/queue_en.md) and [hud-editor](wiki/pq4/hud_editor_en.md). We also provide a short introduction guide in multiple languages for a general overview of these topics.
+The [PlayQ4.net](wiki/pq4/playq4_en.md) Wiki provides general information about [Quake IV](wiki/q4/quake4_en.md) and our own services such as our [launcher](wiki/pq4/launcher_en.md), [queue-system](wiki/pq4/queue_en.md) and [hud-editor](wiki/pq4/hud_editor_en.md). We also provide a short introduction guide in multiple languages for a general overview of these topics.
 
 
 ## Getting Started
