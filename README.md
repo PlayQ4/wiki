@@ -4,22 +4,15 @@
 ---
 
 # PlayQ4.net Wiki
-The [PlayQ4.net](wiki/pq4/playq4_en.md) Wiki provides general information about [Quake IV](wiki/q4/quake4_en.md) and our own services such as our [launcher](wiki/pq4/launcher_en.md), [queue-system](wiki/pq4/queue_en.md) and [hud-editor](wiki/pq4/hud_editor_en.md). We also provide a short introduction guide in multiple languages for a general overview of these topics.
+The [PlayQ4.net](wiki/pq4/playq4_en.md) Wiki provides general information about [Quake IV](wiki/q4/quake4_en.md) and our own services such as our [`Launcher`](wiki/pq4/launcher_en.md), [`Queue-System`](wiki/pq4/queue_en.md) and [`HUD-Editor`](wiki/pq4/hud_editor_en.md). We also provide a short introduction [guide](wiki/guide/guide.md) in multiple languages for a general overview of these topics.
 
-
-## Getting Started
-If you're new to PlayQ4.net, begin with reading the introduction guide in your preferred language. The purpose of our guide is to provide general information about everything important for playing Quake IV on our servers.
-
-The 🇬🇧 [English](wiki/guide/guide_en.md) guide is also available in the following languages:
-- 🇩🇪 [Deutsch (German)](wiki/guide/guide_de.md)
-
-> [!NOTE]
-> These languages are still being translated:
-> - 🇪🇸 [Español (Spanish)](wiki/guide/guide_es.md)
-> - 🇫🇷 [Français (French)](wiki/guide/guide_fr.md)
-
+## Content
+- [PlayQ4](wiki/pq4/playq4_en.md)
+  - [Guide](wiki/guide/guide.md)
+- [Quake 4](wiki/q4/quake4_en.md)
+- [Q4Max](wik/q4max/q4max_en.md)
 
 ## Contribution
 We welcome contributions from the community! 
 
-If you have suggestions, improvements, or new ideas for pages, please contribute by creating a [new issue](https://github.com/PlayQ4/wiki/issues/new) that outlines your thoughts. 
+If you have suggestions, improvements, or new ideas for pages, please contribute by creating a [new issue](https://github.com/PlayQ4/wiki/issues/new) or [discussion](https://github.com/PlayQ4/wiki/discussions/new?category=ideas) that outlines your thoughts. 
