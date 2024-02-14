@@ -1,10 +1,11 @@
 # Guides
+If you're new to PlayQ4.net, start by reading the introduction guide in your preferred language. Our guide provides essential information for playing Quake IV on our servers.
 
 > [!WARNING]
-> Guides in languages other than [English](guide_en.md) may contain translation errors!
+> Guides in languages other than English may contain translation errors.
 
 # Languages
-- 🇬🇧 [English](guide_en.md)
-- 🇫🇷 [French (Français)](guide_fr.md)
-- 🇩🇪 [German (Deutsch)](guide_de.md)
-- 🇪🇸 [Spanish (Español)](guide_es.md)
+- ![](https://img.shields.io/badge/English-complete-success)
+- ![](https://img.shields.io/badge/French_(Français)-incomplete-critical)
+- ![](https://img.shields.io/badge/German_(Deutsch)-complete-success)
+- ![](https://img.shields.io/badge/Spanish_(Español)-incomplete-critical)
