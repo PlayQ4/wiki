@@ -10,6 +10,7 @@
 ## Commands
 | Command | Summary | Type |
 | --- | --- | --- |
+| **Client Commands** |  |  |
 | [_button1](#_button1) | Allows a coach to send voice chat to the currently spectated player. | ![client](https://img.shields.io/badge/Client-blue) |
 | [autorecord](#autorecord) | Records a netdemo with a name in the same format as autoaction recorded demos. | ![client](https://img.shields.io/badge/Client-blue) |
 | [aviNetDemo](#avinetdemo) | Capture screenshots from a netdemo suitable for creating an avi. | ![client](https://img.shields.io/badge/Client-blue) |
@@ -39,6 +40,8 @@
 | [timeout](#timeout) | Calls a timeout | ![client](https://img.shields.io/badge/Client-blue) |
 | [viewSizeUp/viewSizeDown](#viewsizeup/viewsizedown) | Increase/decrease view size. | ![client](https://img.shields.io/badge/Client-blue) |
 | [weapon](#weapon) | Switches to the given weapon | ![client](https://img.shields.io/badge/Client-blue) |
+|  |  |  |
+| **Referee Commands** |  |  |
 | [abort](#abort) | Abandons the current game and returns to warmup. | ![referee](https://img.shields.io/badge/Referee-orange) |
 | [allready](#allready) | Readies up all players and begins the game. | ![referee](https://img.shields.io/badge/Referee-orange) |
 | [cancelref](#cancelref) | Makes you quit your referee position. | ![referee](https://img.shields.io/badge/Referee-orange) |
@@ -61,6 +64,8 @@
 | [strogg](#strogg) | Puts a given player on the strogg team. | ![referee](https://img.shields.io/badge/Referee-orange) |
 | [unlockteams](#unlockteams) | Unlocks teams to allow players to join. | ![referee](https://img.shields.io/badge/Referee-orange) |
 | [unpause](#unpause) | Unpauses a game. | ![referee](https://img.shields.io/badge/Referee-orange) |
+|  |  |  |
+| **Server Commands** |  |  |
 | [addBot](#addbot) | Add a bot. | ![server](https://img.shields.io/badge/Server-green) |
 | [AddGuidToBanList](#addguidtobanlist) | Adds a GUID into the banlist. | ![server](https://img.shields.io/badge/Server-green) |
 | [AddIPToBanList](#addiptobanlist) | Adds an IP into the banlist. | ![server](https://img.shields.io/badge/Server-green) |
@@ -70,3 +75,14 @@
 | [RemoveGuidFromBanList](#removeguidfrombanlist) | Removes a GUID from the banlist. | ![server](https://img.shields.io/badge/Server-green) |
 | [RemoveIPFromBanList](#removeipfrombanlist) | Removes an IP from the banlist. | ![server](https://img.shields.io/badge/Server-green) |
 | [ShowBanList](#showbanlist) | Displays the banlist. | ![server](https://img.shields.io/badge/Server-green) |
+
+## Details
+
+
+## Client Commands
+
+
+
+## Referee Commands
+
+## Server Commands
