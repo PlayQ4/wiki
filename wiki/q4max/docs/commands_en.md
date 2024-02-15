@@ -78,11 +78,11 @@
 
 ## Details
 
-
 ## Client Commands
-
-
+//todo
 
 ## Referee Commands
+//todo
 
 ## Server Commands
+//todo
