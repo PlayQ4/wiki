@@ -73,12 +73,12 @@
 
 | Command | Parameters | Summary | Description | Type |
 | --- | --- | --- | --- | --- |
-| addBot |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| AddGuidToBanList |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| AddIPToBanList |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| broadcastMsg |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| networkStats |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| passvote |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| RemoveGuidFromBanList |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| RemoveIPFromBanList |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
-| ShowBanList |   |   |   | ![server](https://img.shields.io/badge/Server-green) |
+| addBot | \<name\> \<team\> | Add a bot. | Add a "name" bot. If the name matches a defined bot personality, the defined bot will be added, otherwise it will be a default bot. In team games, you can also specify the team (strogg or marine, marine if unspecified). | ![server](https://img.shields.io/badge/Server-green) |
+| AddGuidToBanList | \<GUID\> | Adds a GUID into the banlist. | Adds the given GUID into the banlist. The guid is a q4 guid, as shown by the players command. Another useful source of of player to GUID mappings is from the stats XML logs. If the guid contains non-alpha chars, it is worth quoting the parameter to make sure it is entered correctly. | ![server](https://img.shields.io/badge/Server-green) |
+| AddIPToBanList | \<IP\> | Adds an IP into the banlist. | Adds the IP into the banlist. If the ip is just the beginning of the IP (eg 123.123.123) then it will ban 123.123.123.* - do not use wildcards though, its automatic. Note that you must use the IP as displayed in the q4 console at connection - this is usually dotted quads, but it is sometimes resolved in the case of localhost, and maybe other computers on the sam LAN. | ![server](https://img.shields.io/badge/Server-green) |
+| broadcastMsg |   | Broadcast a message to all clients. | Sends a string to clients, which will show in the MOTD field. Useful for "shutting down server!" warnings or TV centerprints. | ![server](https://img.shields.io/badge/Server-green) |
+| networkStats |   | Report network traffic stats. | On a client, reports in/out rate and incoming PL to the console. On a server, reports in/out rate and incoming PL of each client to the server console. | ![server](https://img.shields.io/badge/Server-green) |
+| passvote |   | Pass a vote. | This is used to pass votes straight from the server console. | ![server](https://img.shields.io/badge/Server-green) |
+| RemoveGuidFromBanList | \<GUID\> | Removes a GUID from the banlist. | Removes the given GUID from the banlist. Only exact matches are removed, so be careful to type it exactly as entered in the ban list. As with adding, make sure that the guid is quoted if contains slashes etc. | ![server](https://img.shields.io/badge/Server-green) |
+| RemoveIPFromBanList | \<IP\> | Removes an IP from the banlist. | Removes an IP from the banlist. Only exact matches are removed, so be careful to type it exactly as entered in the ban list. This includes partial IPs used to ban entire ranges of IPs. | ![server](https://img.shields.io/badge/Server-green) |
+| ShowBanList | \<GUID\> | Displays the banlist. | This command can be used to look at the players that are currently entered into the banlist, listing name (if known), guid. IP bans are shown with a blank guid, and a name of the IP that is banned. | ![server](https://img.shields.io/badge/Server-green) |
