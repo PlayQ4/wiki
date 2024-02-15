@@ -14,17 +14,17 @@
 | _button1 |  | Allows a coach to send voice chat to the currently spectated player. | This functions like press-to-talk voice chat, with the only exception that it only sends messages to the player you are currently viewing. | ![client](https://img.shields.io/badge/Client-blue) |
 | autorecord |   | Records a netdemo with a name in the same format as autoaction recorded demos. | This behaves like "recordnetdemo", except it does not take any arguments : it will name the recorded demo in the same format as autoaction demos. | ![client](https://img.shields.io/badge/Client-blue) |
 | aviNetDemo | \<a netdemo filename\> | Capture screenshots from a netdemo suitable for creating an avi. | This command will turn an entire netdemo into a sequence of tga or jpg screenshots running at 62.5 fps. When executed, this will set demo_aviDemoName to the filename passed as a parameter and save the screenshots in a subdirectory of q4max/screenshots/avidemo/ named after this filename. It will keep going as long as demo_aviDemoScreenshots is set to 1, or until you disconnect/the demo ends. | ![client](https://img.shields.io/badge/Client-blue) |
-| callvote |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| cancelcoach |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| coach |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| coachdecline |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| coachinvite |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| coachrevoke |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| demoSlowDown |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| demoSpeedReset |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| demoSpeedUp |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| fixUserInfo |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
-| follow |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
+| callvote | \<votename\> [setting] | Calls a vote on a given option. | This allows a player to vote for a specific setting to be changed. The <votename> parameter indicates what is voteable, and the [setting] parameter indicates the value requested. There are many voteable settings - these can be listed, complete with a description using "callvote ?". See [the current list of settings](votes_en.md). Using this command with no [setting] parameter will display the current state of this setting. Note that server operators can disable specific votes if they do not wish any given setting to be voteable. Common votes include "callvote mode CA" or "callvote map mp/swq4dm1". | ![client](https://img.shields.io/badge/Client-blue) |
+| cancelcoach |  | Makes you quit your coaching position. | Use this if you want to quit coaching a team. | ![client](https://img.shields.io/badge/Client-blue) |
+| coach |   | Accepts a coaching invitation. | Issuing this command turns you into a coach for the team which sent the invitation. As a coach, you can partake in the team's teamchat (both in type and using voicechat), see the team overlay and view any players on the coached team. You can also use the _button1 to send voice messages to the player you are currently viewing. | ![client](https://img.shields.io/badge/Client-blue) |
+| coachdecline |   | Declines a coaching invitation. |   | ![client](https://img.shields.io/badge/Client-blue) |
+| coachinvite | \<playerid\> | Invites a player to coach your team. | Invites a spectator to coach your team. Get the spectator's player id by using the players command. | ![client](https://img.shields.io/badge/Client-blue) |
+| coachrevoke |   | Revokes a coach. | Use this if you want to remove a coach from your team. | ![client](https://img.shields.io/badge/Client-blue) |
+| demoSlowDown |   | Slow down netdemo playback. | This command halves demo_scale down to 0.25. | ![client](https://img.shields.io/badge/Client-blue) |
+| demoSpeedReset |   | Reset netdemo playback to normal speed. | This command resets demo_scale to 1. | ![client](https://img.shields.io/badge/Client-blue) |
+| demoSpeedUp |   | Speedup netdemo playback. | This command doubles demo_scale up to 32. | ![client](https://img.shields.io/badge/Client-blue) |
+| fixUserInfo |   | Attempts to get your userInfo from the server. | If using the command once doesn't help, don't bother spamming it - it will either work, or it wont. | ![client](https://img.shields.io/badge/Client-blue) |
+| follow | \<powerup\> or \<playerid\> | Allows a spectator to switch to a nominated player when spectating. | This allows a spectator to follow either a specific player, or to follow a player holding a specific powerup. The parameter can either be one of the powerup names ("quad", "regen", "haste", "invis", "marineflag" or "stroggflag"), or the player id reported by the "players" command for the player you wish to follow. If there are multiple powerups of the same type in play at the same time, executing this command multiple times will cycle through all players with that powerup. Note that this is not "automatic" following of the powerups, and simply changes to the player holding that powerup at the time you execute this command. | ![client](https://img.shields.io/badge/Client-blue) |
 | lockteam |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
 | maplist |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
 | multipov |   |   |   | ![client](https://img.shields.io/badge/Client-blue) |
